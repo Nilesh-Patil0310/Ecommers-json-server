@@ -1,0 +1,39 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"Watch",
+            "price":1500,
+            "description":"Noise Pulse 4 Max Smart Watch with AI Create (India's 1st Ever with Unlimited Watch Faces), AI Search",
+            "img": "https://m.media-amazon.com/images/I/61gvNkugY4L._SX679_.jpg"
+        },
+        {
+            "id":2,
+            "name":"Washing Machine",
+            "price":5000,
+            "description":"Panasonic 6 Kg 5 Star Fully-Automatic Top Load Washing Machine ( NA-F60LF1HRB, Grey, Durable Metal Body, 8 Wash Program, Aquabeat wash technology, One touch smart wash, 2022 model)",
+            "img": "https://m.media-amazon.com/images/I/51uVzVsKuZL._SY606_.jpg"
+        },
+        {
+            "id":3,
+            "name":"Traveller Bag",
+            "price":3845,
+            "description":"Safari Polypropylene (Pp) Pentagon Hardside Small,Medium & Large Size Spinner 4 Wheels Cabin & Check-in Luggage Set of 3 Suitcase Trolley Bags for Travel-Dark Grey Color,55Cm,66Cm&75Cm,H-54 Cm",
+            "img": "https://m.media-amazon.com/images/I/61sPIf6t5cL._SX679_.jpg"
+        },
+        {
+            "id":4,
+            "name":"Earphones",
+            "price":799,
+            "description":"Oneplus Bullets Z2 Bluetooth Wireless in Ear Earphones with Mic, Bombastic Bass - 12.4 mm Drivers, 10 Mins Charge - 20 Hrs Music, 30 Hrs Battery Life, IP55 Dust and Water Resistant (Magico Black)",
+            "img": "https://m.media-amazon.com/images/I/51UhwaQXCpL._SX425_.jpg"
+        },
+        {
+            "id":5,
+            "name":"Mobile Phone",
+            "price":26998,
+            "description":"Oneplus Nord CE4 (Dark Chrome, 8GB RAM, 256GB Storage)",
+            "img": "https://m.media-amazon.com/images/I/61g1pqSjAhL._SX569_.jpg"
+        }
+    ]
+}
